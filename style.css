@@ -1,0 +1,9 @@
+
+.new_parent .card-img-top{
+    transition: transform 0.3s ease-in-out;
+}
+
+.new_parent:hover  .card-img-top{
+
+transform: scale(1.3);
+}
